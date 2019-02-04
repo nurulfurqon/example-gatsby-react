@@ -69,6 +69,7 @@ export const query = graphql`
       excerpt
       frontmatter {
         title
+        image
         date
       }
     }

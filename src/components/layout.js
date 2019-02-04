@@ -62,7 +62,7 @@ const Layout = ({ children }) => (
             <FooterContent>
             <p>Made with</p>
             <img src={like} alt="love" className="icon" />
-            <p>by <a href="https://github.com/nurulfurqon" target="_blank">Nurul Furqon</a></p>
+            <p>by <a href="https://github.com/nurulfurqon" target="_blank" rel="noopener noreferrer">Nurul Furqon</a></p>
             </FooterContent>
           </footer>
         </Container>
