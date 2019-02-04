@@ -1,0 +1,19 @@
+.back-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #14151a;
+  text-decoration: none;
+}
+
+.back-button:hover {
+  text-decoration: underline;
+}
+
+.back-button p {
+  margin: 0;
+}
+
+.back-button img {
+  margin: 0 10px 0 0;
+}
